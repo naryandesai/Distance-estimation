@@ -1,0 +1,11 @@
+hyperopt
+tqdm
+matplotlib
+pandas
+hyperas
+opencv_python
+numpy
+asposebarcode
+scikit_learn
+tensorflow
+tensorflow-model-optimization
